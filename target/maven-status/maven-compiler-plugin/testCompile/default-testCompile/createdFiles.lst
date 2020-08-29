@@ -1,0 +1,8 @@
+testcal\features\search\package-info.class
+testcal\tasks\Calculation.class
+testcal\features\search\SearchByKeywordStory.class
+testcal\tasks\Calculation$CalculationBuilder.class
+testcal\tasks\OpenTheApplication.class
+testcal\ui\GoogleSearchPage.class
+testcal\ui\CalculatorScreen.class
+testcal\questions\CalculatorResuls.class
